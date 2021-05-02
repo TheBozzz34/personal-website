@@ -38,12 +38,12 @@ projects:
   # linkedin: your_username
   # mastodon: your_username
   # medium: your_username
-    stackoverflow: 14556192
+stackoverflow: 14556192
   # telegram: your_username
-    twitter: gonk_droid101
+twitter: gonk_droid101
   # unsplash: your_username
   # vk: your_username
-    website: https://wrathoftheteletubbies.live
+website: https://wrathoftheteletubbies.live
   # youtube: your_username
 
 topics:
